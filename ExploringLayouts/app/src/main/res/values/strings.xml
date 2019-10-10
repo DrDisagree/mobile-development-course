@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exploring Layouts</string>
+    <string name="multi_text">
+        Select a layout type to view an example. The onClick attribute of each
+button will call a method which executes setContenetView to load the new layout.
+    </string>
+</resources>
